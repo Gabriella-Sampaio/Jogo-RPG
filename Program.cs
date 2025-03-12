@@ -27,7 +27,6 @@ int val2 = Console.Read();
 
 Console.ReadKey(); */
 
-/*
 using System;
 
 namespace SimpleRPG
@@ -147,6 +146,6 @@ namespace SimpleRPG
         }
     }
 }
-*/
+
 //fim do código da IA (estudar POO)
 
